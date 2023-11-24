@@ -39,4 +39,3 @@ print(p1)
 
 p2=Python("Sue",22)
 print(p2._dict_)
-\nCourse={self.Course_info.get}\
